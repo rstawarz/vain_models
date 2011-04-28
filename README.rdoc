@@ -1,6 +1,6 @@
 = vain_models
 
-Description goes here.
+This is a shell right now, but will be a nice view of your apps model very soon
 
 == Contributing to vain_models
  
